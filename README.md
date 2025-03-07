@@ -13,3 +13,5 @@ Default percentage over all the loans
   
 ## 📊 Data Source
 The dataset is sourced from LendingClub’s publicly available loan data, which includes details about loan amounts, interest rates, borrower income, credit scores, and repayment status.
+## ✅ Solutions
+https://drive.google.com/file/d/1zofzgDzZ30rwKSvDbXlPDE_aSIc4JsOU/view?usp=drive_link
